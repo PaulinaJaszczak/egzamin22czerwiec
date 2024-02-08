@@ -4,7 +4,7 @@ autor: Paulinek Rekinek
 metodologia: HTML + CSS
 program: VSC
 źródło: https://egzamin-informatyk.pl/arkusz-praktyczny-inf03-2022-06-01/
-data ukończenia: 
-adres srtony: index html
+data ukończenia: 08.02.2024
+adres srtony: 
 deploy - gałąź modyfikowania: 
-pliki i foldery:  
+pliki i foldery: TSI
