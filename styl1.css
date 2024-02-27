@@ -1,0 +1,53 @@
+.Główny{
+    width:1000px;
+    height:800px;
+ }
+ .baner{
+     background-color:#00838F;
+     width:1000px;
+     height:125px;
+     text-align: center;
+     margin: 5px;
+     font-size: 130%;
+     color: white;
+     font-family: Helvetica;
+ }
+ .Lewo{
+    background-color: #EFEFEF;
+    width:55%;
+    height:150px;
+    font-family: Helvetica;
+ }
+ .Prawo{
+     background-color:#4FB3BF;
+     width:45%;
+     height:450px;
+     font-family: Helvetica;
+     text-align: center;
+     font-family: Helvetica;
+ }
+ .Koniec{
+     background-color:#00838F;
+     width:1000px;
+     height:50px;
+     color: white;
+     text-align: center;
+     margin: 5px;
+     font-size: 130%;
+     font-family: Helvetica;
+ }
+ .Matka{
+     display:flex;
+ }
+ .jeden{
+     background-color:#EFEFEF;
+     width:55%px;
+     height:300px;
+ }
+ .zdjecie{
+    box-shadow:DimGray 10px 10px 7px;
+    margin: auto 80%;
+ }
+ .table{
+    margin: 4px;
+ }
